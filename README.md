@@ -19,4 +19,4 @@ To recreate this project, download or clone these files to get started:
 
 * [Starter Code](Develop/index.html)
 * [Special Characters](https://owasp.org/www-community/password-special-characters)
-* [password generator demo](./Assets/03-javascript-homework-demo.png)
+* [password generator demo](03-JavaScript\02-Challenge\Assets\03-javascript-homework-demo.png)
