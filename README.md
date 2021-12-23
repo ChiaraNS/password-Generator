@@ -2,7 +2,7 @@
 
 ![generator](https://user-images.githubusercontent.com/87394571/131281188-5eb0caf8-c4ab-4c74-96f3-07ac615fb7ee.png)
 ## Table of contents
-* [Password Generator](https://chiarans.github.io/passwordGenerator/)
+* [Password Generator](https://chiarans.github.io/password-Generator/)
 * [General info](#general-info)
 * [Specifications](#specifications)
 * [Technologies](#technologies)
